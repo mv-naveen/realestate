@@ -1,0 +1,6 @@
+{
+  "name": "TERVOONE — One Platform. More Possibilities.",
+  "description": "Property buying made simple, transparent, and rewarding in Chennai. Discover apartments, villas, and plots with zero lead selling, direct WhatsApp support, and exclusive community lifestyle rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
