@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #007a38;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    overflow-x: clip;
+  }
+  ::selection {
+    background-color: #171717;
+    color: #ffffff;
+  }
+}
